@@ -14,6 +14,9 @@
 .pad-5{
     padding:var(--size-5);
 }
+.pad-auto{
+    padding:auto;
+}
 
 .pad-l1{
     padding-left:var(--size-1);
@@ -29,6 +32,9 @@
 }
 .pad-l5{
     padding-left:var(--size-5);
+}
+.pad-lauto{
+    padding-left:auto;
 }
 
 .pad-r1{
@@ -46,6 +52,9 @@
 .pad-r5{
     padding-right:var(--size-5);
 }
+.pad-rauto{
+    padding-right:auto;
+}
 
 .pad-t1{
     padding-top:var(--size-1);
@@ -62,6 +71,9 @@
 .pad-t5{
     padding-top:var(--size-5);
 }
+.pad-tauto{
+    padding-top:auto;
+}
 
 .pad-b1{
     padding-bottom:var(--size-1);
@@ -77,4 +89,7 @@
 }
 .pad-b5{
     padding-bottom:var(--size-5);
+}
+.pad-bauto{
+    padding-bottom:auto;
 }
