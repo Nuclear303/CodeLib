@@ -1,4 +1,4 @@
-export default class Sorting{
+export default class sorting{
     constructor(){
     this.bubbleSort =(array)=> {
     var first;
