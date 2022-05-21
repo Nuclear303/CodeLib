@@ -1,4 +1,6 @@
-export default function bubbleSort(array) {
+export default class Sorting{
+    constructor(){
+    this.bubbleSort =(array)=> {
     var first;
     var second;
     for (var i = 0; i < array.length; i++) {
@@ -12,4 +14,6 @@ export default function bubbleSort(array) {
         }
     }
     return array;
+    }
+}
 }
