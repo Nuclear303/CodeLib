@@ -1,0 +1,99 @@
+@import url(./variables.css);
+.mar, .mar-1{
+    margin:var(--size-1);
+}
+.mar-2{
+    margin:var(--size-2);
+}
+.mar-3{
+    margin:var(--size-3);
+}
+.mar-4{
+    margin:var(--size-4);
+}
+.mar-5{
+    margin:var(--size-5);
+}
+.mar-auto{
+    margin:auto;
+}
+
+.mar-l1{
+    margin-left:var(--size-1);
+}
+.mar-l2{
+    margin-left:var(--size-2);
+}
+.mar-l3{
+    margin-left:var(--size-3);
+}
+.mar-l4{
+    margin-left:var(--size-4);
+}
+.mar-l5{
+    margin-left:var(--size-5);
+}
+.mar-lauto{
+    margin-left:auto;
+}
+
+.mar-r1{
+    margin-right:var(--size-1);
+}
+.mar-r2{
+    margin-right:var(--size-2);
+}
+.mar-r3{
+    margin-right:var(--size-3);
+}
+.mar-r4{
+    margin-right:var(--size-4);
+}
+.mar-r5{
+    margin-right:var(--size-5);
+}
+.mar-rauto{
+    margin-right:auto;
+}
+
+.mar-t1{
+    margin-top:var(--size-1);
+}
+.mar-t2{
+    margin-top:var(--size-2);
+}
+.mar-t3{
+    margin-top:var(--size-3);
+}
+.mar-t4{
+    margin-top:var(--size-4);
+}
+.mar-t5{
+    margin-top:var(--size-5);
+}
+.mar-tauto{
+    margin-top:auto;
+}
+
+.mar-b1{
+    margin-bottom:var(--size-1);
+}
+.mar-b2{
+    margin-bottom:var(--size-2);
+}
+.mar-b3{
+    margin-bottom:var(--size-3);
+}
+.mar-b4{
+    margin-bottom:var(--size-4);
+}
+.mar-b5{
+    margin-bottom:var(--size-5);
+}
+.mar-bauto{
+    margin-bottom:auto;
+}
+
+.mar-inline{
+    margin-inline:auto; 
+}
