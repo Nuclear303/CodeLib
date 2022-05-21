@@ -1,0 +1,79 @@
+.pad, .pad-1{
+    padding:5px;
+}
+.pad-2{
+    padding:10px;
+}
+.pad-3{
+    padding:15px;
+}
+.pad-4{
+    padding:20px;
+}
+.pad-5{
+    padding:25px;
+}
+
+.pad-l1{
+    padding-left:5px;
+}
+.pad-l2{
+    padding-left:10px;
+}
+.pad-l3{
+    padding-left:15px;
+}
+.pad-l4{
+    padding-left:20px;
+}
+.pad-l5{
+    padding-left:25px;
+}
+
+.pad-r1{
+    padding-right:5px;
+}
+.pad-r2{
+    padding-right:10px;
+}
+.pad-r3{
+    padding-right:15px;
+}
+.pad-r4{
+    padding-right:20px;
+}
+.pad-r5{
+    padding-right:25px;
+}
+
+.pad-t1{
+    padding-top:5px;
+}
+.pad-t2{
+    padding-top:10px;
+}
+.pad-t3{
+    padding-top:15px;
+}
+.pad-t4{
+    padding-top:20px;
+}
+.pad-t5{
+    padding-top:25px;
+}
+
+.pad-b1{
+    padding-bottom:5px;
+}
+.pad-b2{
+    padding-bottom:10px;
+}
+.pad-b3{
+    padding-bottom:15px;
+}
+.pad-b4{
+    padding-bottom:20px;
+}
+.pad-b5{
+    padding-bottom:25px;
+}
