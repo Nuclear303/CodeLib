@@ -1,4 +1,4 @@
-class Sorting{
+class sorting{
     constructor(){
         this.bubbleSort =(array)=> {
         var first;
@@ -17,4 +17,4 @@ class Sorting{
         }
     }
 }
-const Sorting = new Sorting();
+const Sorting = new sorting();
