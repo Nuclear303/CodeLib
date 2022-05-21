@@ -1,1 +1,1 @@
-import * as bubbleSort from "./js/bubbleSort.js";
+import {bubbleSort} from "./js/bubbleSort.js";
